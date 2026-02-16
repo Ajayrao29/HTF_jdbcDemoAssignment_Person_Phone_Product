@@ -7,7 +7,7 @@ import org.example.entity.Person;
 import java.util.List;
 import java.util.Scanner;
 
-public class UserInterface {
+public class UserInterfacePerson {
     private PersonDao personDao = new PersonDaoImpl();
     private Scanner scanner = new Scanner(System.in);
 
